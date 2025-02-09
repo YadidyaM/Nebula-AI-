@@ -38,7 +38,7 @@ Nebula AI is an advanced autonomous space mission control system designed to rev
 [Live Demo of Nebula AI](https://nebulaspace.netlify.app/)
 
 ## 🤝 Team Members
-- Meghana Nagaraja ([https://github.com/meghanacloud19](https://github.com/meghanacloud197)7)
+- Meghana Nagaraja ([@Meghana](https://github.com/meghanacloud197)7)
 - Yadidya Medepalli ([@Yadidya](https://github.com/YadidyaM))
 - Monica Jayakumar ([@Mon_mj](https://github.com/Monica2403))
 
