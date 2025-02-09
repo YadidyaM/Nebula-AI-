@@ -1,6 +1,6 @@
 # 🚀 Nebula AI: Autonomous Space Mission Control System
 
-![Nebula AI Cover](https://i.imgur.com/zyOMBMm.png)
+<img src="https://i.imgur.com/zyOMBMm.png" alt="Nebula AI Cover" width="600"/>
 
 ## 📋 Overview
 Nebula AI is an advanced autonomous space mission control system designed to revolutionize satellite operations. Leveraging cutting-edge artificial intelligence, Nebula AI manages real-time satellite telemetry, optimizes resource allocation, and detects anomalies to enhance mission efficiency and reliability.
@@ -23,22 +23,28 @@ Nebula AI is an advanced autonomous space mission control system designed to rev
 ## 📊 Architecture Diagram
 ![Nebula AI Architecture](https://i.imgur.com/j7emRd3.png)
 
-## 🚀 Getting Started
+## 🚀 Deployment
+- **Frontend:** Deployed on Netlify
+- **Backend:** Deployed on Render
 
-### Prerequisites
-- Node.js
-- Docker (optional for containerized deployment)
+## 🎯 How It Works
+1. **Telemetry Data Processing:** Real-time satellite telemetry is processed through AI/ML models.
+2. **Anomaly Detection:** Anomaly Detection Agents (ADA) identify irregularities.
+3. **Impact Assessment:** Anomaly Impact Assessor (AIA) evaluates the severity.
+4. **Task Scheduling:** Task Scheduling Agent (TSA) optimizes mission plans.
+5. **Visualization:** Data is presented in an interactive dashboard for real-time monitoring.
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-repo/nebulai.git
+## 📡 Live Demo
+[Live Demo of Nebula AI](https://nebulaspace.netlify.app/)
 
-# Navigate to the project directory
-cd nebulai
+## 🤝 Team Members
+- Meghana Nagaraja ([https://github.com/meghanacloud19](https://github.com/meghanacloud197)7)
+- Yadidya Medepalli ([@Yadidya](https://github.com/YadidyaM))
+- Monica Jayakumar ([@Mon_mj](https://github.com/Monica2403))
 
-# Install dependencies
-npm install
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# Run the development server
-npm run dev
+---
+
+*Empowering the future of space exploration with Nebula AI.* 🚀
