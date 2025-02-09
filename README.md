@@ -16,7 +16,7 @@ Nebula AI is an advanced autonomous space mission control system designed to rev
 ## 🛠️ Technologies Used
 - **Frontend:** React, TypeScript, Tailwind CSS, Vite
 - **Backend:** Node.js, AI/ML APIs, Render
-- **AI/ML:** Machine Learning, Reinforcement Learning (DQN), AI/ML APIs
+- **AI/ML:** Machine Learning Algorithms, Reinforcement Learning, AI Agent
 - **Data Visualization:** D3.js, Recharts, Three.js
 - **Deployment:** Docker, Netlify
 
