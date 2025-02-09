@@ -1,6 +1,6 @@
 # 🚀 Nebula AI: Autonomous Space Mission Control System
 
-![Nebula AI Cover](https://imgur.com/zyOMBMm)
+![Nebula AI Cover](https://i.imgur.com/zyOMBMm.png)
 
 ## 📋 Overview
 Nebula AI is an advanced autonomous space mission control system designed to revolutionize satellite operations. Leveraging cutting-edge artificial intelligence, Nebula AI manages real-time satellite telemetry, optimizes resource allocation, and detects anomalies to enhance mission efficiency and reliability.
@@ -21,7 +21,7 @@ Nebula AI is an advanced autonomous space mission control system designed to rev
 - **Deployment:** Docker, Netlify
 
 ## 📊 Architecture Diagram
-![Nebula AI Architecture](https://imgur.com/j7emRd3)
+![Nebula AI Architecture](https://i.imgur.com/j7emRd3.png)
 
 ## 🚀 Getting Started
 
