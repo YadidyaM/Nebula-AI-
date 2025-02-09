@@ -12,6 +12,7 @@ Nebula AI is an advanced autonomous space mission control system designed to rev
 - **Autonomous Agents:** AI-driven task scheduling, anomaly impact assessment, and mission control.
 - **Interactive Dashboard:** Real-time telemetry, system health monitoring, and data visualization.
 - **3D Satellite Orbit Visualization:** Dynamic visualization using Three.js.
+- **Simulation:** Real-Cassini simulation following Physics and Cassini data .
 
 ## 🛠️ Technologies Used
 - **Frontend:** React, TypeScript, Tailwind CSS, Vite
